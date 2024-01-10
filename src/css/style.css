@@ -1,0 +1,13 @@
+#navbar {
+  box-shadow: rgba(133, 124, 119, 0.52) 0px 21px 39px -20px;
+}
+
+.bg-gray {
+  background-color: whitesmoke;
+  border-radius: 15px 15px 0 0;
+  box-shadow: rgba(133, 124, 119, 0.52) 0px -21px 39px -20px;
+}
+
+#calorie-progress {
+  background-color: whitesmoke;
+}
